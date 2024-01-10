@@ -1,1 +1,2 @@
-//your JS code here. If required.
+let address = window.location.href;
+alert(address.length);
