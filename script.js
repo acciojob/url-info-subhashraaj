@@ -1,2 +1,2 @@
 let address = window.location.href;
-alert(address.length);
+alert(`The length of the URL is: ${window.location.href.length}`)
